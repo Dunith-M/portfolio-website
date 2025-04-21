@@ -3,6 +3,6 @@ $(document).ready(function() {
     $('#slides').superslides({
         Animation: 'fade',
         play: 5000,
-        pagination: true,
+        pagination: false,
     })
 });
