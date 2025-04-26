@@ -243,3 +243,22 @@ body{
     cursor: pointer;
     z-index: 2;
 }
+
+
+
+
+
+
+
+
+
+
+.copyrightSection{
+    background-color: #34495e;
+    color: #fff;
+    padding: 30px 5px;
+}
+
+.copyrightSection p{
+    margin: 0;
+}
