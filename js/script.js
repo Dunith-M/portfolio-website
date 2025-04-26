@@ -60,5 +60,7 @@ $(document).ready(function() {
 
 
     //$(".counter").countup(50);
+
+    $("[data-fancybox]").fancybox();
         
 });
